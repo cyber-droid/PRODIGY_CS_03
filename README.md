@@ -1,4 +1,4 @@
-# PRODIGY_CS_03(Password Complexity Checker)
+# Password Complexity Checker
 
 A Password Complexity Checker is a simple program that evaluates the strength of a password based on several rules. 
 
